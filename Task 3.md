@@ -26,3 +26,6 @@ Agile methodology was finalized in 2001. In this model, the software is broken d
 |Easy and quick to pivot based on changing customer feedback |Less effective if the customer does not want to be a direct and active member of the team|
 |Useful value is delivered frequently and repeatedly throughout the lifecycle, starting with delivering the MVP|Requires training team members and customers to best implement and utilise the Agile mindset and Agile cultural work processes|
 |Faster to production deployment than with waterfall, with a generally lower overall risk profile and a higher ROI|Requires strong communication and teamwork skills to be effective|
+
+#### Task:
+<a href="https://ibb.co/N2cKJZ3"><img src="https://i.ibb.co/1GFTP8n/Screenshot-2025-01-09-165953.jpg" alt="Screenshot-2025-01-09-165953" height="400px" width="1000px"></a>
