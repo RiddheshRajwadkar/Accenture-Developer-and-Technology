@@ -1,4 +1,4 @@
-### Task 3: The Software Testing Life Cycle
+### Task 4: The Software Testing Life Cycle
 #### What is Software Testing Life Circle(STLC)?
 Software Testing LifeCycle is a conceptual framework and process model for describing all the activities involved in the process to ensure the software works as it was designed to, without any defects. And support the software team in correcting the defects.
 
