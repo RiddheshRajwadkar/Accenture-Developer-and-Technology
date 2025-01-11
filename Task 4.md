@@ -17,3 +17,19 @@ Software Testing LifeCycle is a conceptual framework and process model for descr
 - System tests. Also known as end-to-end testing, system tests are conducted to test the completed, fully integrated software application from a technical point of view, checking that each input leads to the correct output. Often done by a QA testing team at the end of each release cycle. Often referred to as SIT (system integration testing).
 - Acceptance tests. Tests performed by a QA team or a team of representative end users from the client to test the usability and functionality from the end user’s perspective.   Often referred to as UAT (user acceptance testing). Usually the last step before deployment to production and go-live.
 - Regression tests. Systematic retesting of functionality that might have been affected by a modification made to other code to verify no unintended effects of the change. Usually performed by whoever did SIT or UAT testing
+
+**Advantages of automated testing**
+- Faster for testing
+- Faster to-production deployment and go-live
+- Less expensive at scale
+- Can perform multiple test scripts in parallel
+
+**Disadvantages of automated testing**
+- Complex  technical infrastructure to maintain
+- More expensive upfront
+- Requires technical/coding skills to configure and operate
+
+#### Type of testing
+- Manual testing
+- Automation testing
+- Performance testing and etc
