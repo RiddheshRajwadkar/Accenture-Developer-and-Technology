@@ -1,6 +1,6 @@
 ### Task 2: The Software Development Life Cycle
 #### What is the Software Development Life Cycle?
-##### SDLC is a conceptual framework and process model for describing all the activities involved in the process of creating, delivering and maintaining high-quality software.<br>
+SDLC is a conceptual framework and process model for describing all the activities involved in the process of creating, delivering and maintaining high-quality software.<br>
 **Major stages in SDLC are:**
   - Requirements gathering/extraction and analysis
   - Planning
