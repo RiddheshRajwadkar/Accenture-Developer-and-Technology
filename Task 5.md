@@ -9,4 +9,4 @@ Computational thinking is a structured problem-solving approach that starts with
 <br>
 
 ## Design an algorithm for a cup of tea<br><br>
-<a href="https://ibb.co/LhjQ64H"><img src="https://i.ibb.co/bRwHLpD/Screenshot-2025-01-14-170825.jpg" alt="Screenshot-2025-01-14-170825" border="0"></a>
+<a href="https://ibb.co/LhjQ64H"><img src="https://i.ibb.co/bRwHLpD/Screenshot-2025-01-14-170825.jpg" alt="Screenshot-2025-01-14-170825" height="400px" width="1000px"></a>
