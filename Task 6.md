@@ -14,3 +14,8 @@ The concept of code debugging goes back to the earliest days of computer science
 - Backtracking – essentially stepping but stepping backwards from the point of error
 - Output statement tracing – add code at various points in your program to print out status or values of variables, and use the printed values to trace where the program went wrong and why
 - Divide and conquer – run only one section of code at a time (usually by “commenting out” the other sections so the computer doesn’t see them) to isolate the error systematically
+
+### Code Debugging:
+|Python code with bugs:|Debugged code:|
+|:-|-:|
+|<a href="https://imgbb.com/"><img src="https://i.ibb.co/jhZLHpr/159L.jpg" alt="159L" height="400px" width="1000px">|<a href="https://imgbb.com/"><img src="https://i.ibb.co/NLxSLsJ/159R.jpg" height="400px" width="1000px"></a>|
