@@ -9,3 +9,8 @@ The concept of code debugging goes back to the earliest days of computer science
 - Run-time errors. Errors that occur during the execution of the code. Either the code will run but the output is wrong, or the code stops running because a necessary condition doesn’t currently exist, like a file is missing or a database is inaccessible.
 
 ### How to debug code:
+- Input simplification – input just one variable or bit of data at a time to see which input causes a problem
+- Stepping – watch the code execute one line at a time to see which line causes a problem and what the computer was trying to do at the moment the problem occurred
+- Backtracking – essentially stepping but stepping backwards from the point of error
+- Output statement tracing – add code at various points in your program to print out status or values of variables, and use the printed values to trace where the program went wrong and why
+- Divide and conquer – run only one section of code at a time (usually by “commenting out” the other sections so the computer doesn’t see them) to isolate the error systematically
